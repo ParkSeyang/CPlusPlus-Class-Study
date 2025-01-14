@@ -1,87 +1,96 @@
-﻿#include <iostream>
+﻿#include<iostream>
 
-int data = 1; //data 영역
+class GameObject
+{
+#pragma region 접근 지정자
+	// 클래스 내부에 포함되어 있는 속성에 접근 범위를
+	// 제한하는 지정자입니다.
+
+	// public: 클래스 내부와 자기가 상속하고 있는 클래스 그리고
+	//		   클래스 외부에서도 접근을 허용하는 지정자입니다.
+	 
+	// protected : 클래스 내부와 자기가 상속 하고 있는 클래스 까지만
+	//             접근을 허용하는 지정자입니다.
+	 
+	// private : 클래스 내부까지만 접근을 허용하는 지정자입니다.
+
+#pragma endregion
+private:
+	int x;
+protected:
+	int y;
+public:
+	int z;
+
+	int Z()
+	{
+		return z;
+	}
+};
+
+void swap(int &x, int &y)
+{
+	int temp = x;
+	 x = y;
+	y = temp;
+}
 
 int main()
 {
-#pragma region 스트림
-	// 시간의 흐름에 따라 연속적으로 발생하는 데이터의
-	// 흐름입니다.
+#pragma region 클래스
 
-	// << (삽입 연산자)
-	// 자신이 참조하고 있는 값을 반환하여 출력하는 연산자
+	// 사용자 정의 데이터 유형으로 속성과 함수가 포함
+	// 되어 있으며, 클래스를 통해 객체를 생성하여 접근
+	// 하고 사용하는 집합체 입니다.
 
-	// 예시 
-	// int errorCode = -9999;
+	// GameObject gameObject1; // 메모리생성 위치 [ ] -> stack
 	 
-	// std::cout << "Hello World!" << std::endl;
+	// gameObject1.z = 10;
 	 
-	// std::cout << "ErrorCode : " << errorCode << std::endl;
+	// GameObject Gameproject1;
+	// GameObject Gameproject2;
+	// GameObject Gameproject3;
+	 
+	// Gameproject1.z = 5;
+	// Gameproject2.z = 10;
+	// Gameproject3.z = 20;
+	 
+	// std::cout << "gameObject 의 z 값 : " << gameObject1.z << std::endl;
+	 
+	// std::cout << "Gameproject1 z의 값 : " << Gameproject1.Z() << std::endl;
+	// std::cout << "Gameproject2 z의 값 : " << Gameproject2.Z() << std::endl;
+	// std::cout << "Gameproject3 z의 값 : " << Gameproject3.Z() << std::endl;
 
-	// >> (추출 연산자)
-	// 특정한 값을 입력받은 다음 버퍼에 저장하는 연산자입니다.
-
-	// int n = 0;
-
-	// std::cin >> n;
-
-	// std::cout << "n의 값 : " << n << std::endl;
-
+	// 클래스의 경우 클래스 내부에 있는 변수는 클래스의
+	// 메모리 영역에 포함되지만, 정적 변수와 함수의 메모리는
+	// 클래스 영역에 포함되지 않습니다.
 #pragma endregion
 
-#pragma region 범위 지정 연산자
-	// 여러 범위에서 사용되는 식별자를 구분하는데
-	// 사용하는 연산자 입니다.
+#pragma region 참조자
+	// 어떤 변수의 메모리 공간에 다른 이름을
+	// 지정하는 지정자입니다.
 
-	// int data = 10; //stack 영역
+	// int data = 10;
+	// 
+	// int & reference = data;
+	// 
+	// std::cout << "data의 값 : " << data << std::endl;
+	// std::cout << "reference의 값 : " << reference << std::endl;
+	// 
+	// reference = 20;
+	// 
+	// std::cout << "data의 값 : " << data << std::endl;
+	// std::cout << "reference의 값 : " << reference << std::endl;
 
-	// std::cout << "지역 변수 data 의 값 : " << data << std::endl;
-	// std::cout << "전역 변수 data 의 값 : " << ::data << std::endl;
-	
-	// 범위 지정 연산자는 전역 변수와 같은 이름의 지역 변수가
-	// 선언 되었을 때 가장 가까운 범위에 선언된 변수의 이름을 사용하는
-	// 범위 규칙이 존재 하기 때문에 전역 변수가 호출되지 않습니다.
+	int a = 10;
+	int b = 20;
 
-#pragma endregion
+	swap(a, b);
 
-#pragma region 동적 할당(C++ 기준)
-	// 프로그램을 실행 중에 필요한 만큼 메모리를
-	// 할당하는 작업입니다.
-
-	// int* p = new int;
-	// 
-	// *p = 100;
-	// 
-	// std::cout << "포인터 p의 주소 : " << p << std::endl;
-	// std::cout << "p의 값 : " << *p << std::endl;
-	// 
-	// delete p;
-	// 
-	// p = nullptr;
-	// 
-	// p = new int[3];
-	// 
-	// std::cout << "p배열의 가리키는 주소" << p << std::endl;
-	// 
-	// for (int i = 0; i < 3; i++)
-	// {
-	// 	p[i] = (i + 1) * 10;
-	// 
-	// 	std::cout << "p[" << i << "]" << "의 값 :" << p[i] << std::endl;
-	// }
-	// 
-	// delete [ ]p;
-	// p[0] = 10;
-	// p[1] = 20;
-	// p[2] = 30;
-	// 
-	// 
-	// 
-	// std::cout << "포인터 p[0]주소 값 : " << &point[0] << std::endl;
-	// std::cout << "포인터 p[0]의 값 : " << &point[0] << std::endl;
-	// std::cout << "포인터 p[1]주소 값" << &point[1] << std::endl;
-	// std::cout << "포인터 p[1]주소 값" << &point[1] << std::endl;
+	std::cout << "swap a 의 값 : " << a << std::endl;
+	std::cout << "swap b 의 값 : " << b << std::endl;
 #pragma endregion
 
 
+	return 0;
 }

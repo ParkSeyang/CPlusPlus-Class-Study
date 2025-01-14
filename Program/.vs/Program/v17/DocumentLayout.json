@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB451435-F457-47A8-A9C8-CE599562C0E5}|..\\Class 1th (Stream)\\Class 1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +45,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 1th (Stream)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T09:05:45.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAANAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.514Z",
               "EditorCaption": ""
