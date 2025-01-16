@@ -41,7 +41,7 @@ public:
 
 		cout << " Destroy Object " << endl;
 	}
-	a
+	
 };
 
 int Object::count = 0;
