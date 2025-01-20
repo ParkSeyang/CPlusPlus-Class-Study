@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA92336-D3ED-4A19-BBB6-24CCBAA7373D}|..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Class 4th (Shallow Copy \u0026 Deep Copy).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Sorce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6DD52DC6-AB46-4151-B30E-E2E85D10CBCD}|..\\Class 5th (Inhentance)\\Class 5th (Inhentance).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA92336-D3ED-4A19-BBB6-24CCBAA7373D}|..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Class 4th (Shallow Copy \u0026 Deep Copy).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -29,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,11 +61,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sorce.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Sorce.cpp",
-              "RelativeDocumentMoniker": "..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Sorce.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Sorce.cpp",
-              "RelativeToolTip": "..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Sorce.cpp",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 5th (Inhentance)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 5th (Inhentance)\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T10:04:49.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-17T09:40:46.154Z",
@@ -70,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -94,19 +110,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Program.cpp",
-              "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAABAAAA",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 1th (Stream)\\Source.cpp",
@@ -118,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 2th (Class)\\Source.cpp",
