@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Goliath.cpp" />
+    <ClCompile Include="SiegeTank.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Terran.cpp" />
+    <ClCompile Include="Vulture.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Goliath.h" />
+    <ClInclude Include="SiegeTank.h" />
+    <ClInclude Include="Terran.h" />
+    <ClInclude Include="Vulture.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

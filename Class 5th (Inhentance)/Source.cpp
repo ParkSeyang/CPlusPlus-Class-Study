@@ -2,14 +2,14 @@
 
 using namespace std;
 
-class Terran
+class Unit
 {
 protected:
 
 	int health;
 	int defense;
 public:
-	Terran()
+	Unit()
 	{
 		cout << "Created Terran" << endl;
 	}
@@ -18,7 +18,7 @@ public:
 };
 
 
-class Marine :public Terran
+class Marine :public Unit
 {
 private:
 
@@ -40,7 +40,7 @@ public:
 	}
 };
 
-class Firebat :public Terran
+class Firebat :public Unit
 {
 private:
 
@@ -64,7 +64,7 @@ public:
 	}
 };
 
-class Ghost :public Terran
+class Ghost :public Unit
 {
 private:
 	int attack;
@@ -101,7 +101,7 @@ int main()
 	// 상위 클래스의 속성을 하위 클래스가 사용할 수 있도록
 	// 설정 해주는 기능입니다.
 
-	Terran terran;
+	Unit terran;
 
 	Marine marine;
 	marine.Stats();
@@ -113,7 +113,7 @@ int main()
 	ghost.Stats();
 
 
-	cout << "Terran 객체의 메모리 크기 : " << sizeof(Terran) << endl;
+	cout << "Terran 객체의 메모리 크기 : " << sizeof(Unit) << endl;
 	cout << "Terran 객체의 메모리 크기 : " << sizeof(Marine) << endl;
 	cout << "Terran 객체의 메모리 크기 : " << sizeof(Firebat) << endl;
 	cout << "Terran 객체의 메모리 크기 : " << sizeof(Ghost) << endl;
