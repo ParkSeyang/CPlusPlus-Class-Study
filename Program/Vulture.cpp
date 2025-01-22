@@ -2,7 +2,12 @@
 
 Vulture::Vulture()
 {
-	health = 100;
-	attack = 10;
-	defense = 1;
+	health = 80;
+	attack = 20;
+	defense = 0;
+	cout << "Create Vulture ! " << endl;
+}
+void Vulture::Stats()
+{
+
 }
