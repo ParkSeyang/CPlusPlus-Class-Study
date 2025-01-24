@@ -9,5 +9,7 @@ Vulture::Vulture()
 }
 void Vulture::Stats()
 {
-
+	cout << "Health : " << health << endl;
+	cout << "Shrapnel Grenade Attack (Áö»ó) : " << attack << endl;
+	cout << "defense : " << defense << endl;
 }

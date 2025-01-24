@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{72856CF8-56C2-4419-8665-3258CC590AB2}|..\\Class 7th (Vl)\\Class 7th (Vl).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 7th (Vl)\\Class 7th (Virtual Function).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558D51C5-57CC-44F2-83C9-2E831D758CF5}|..\\Class 3th (Constructor \u0026 Destructor)\\Class 3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class 7th (Virtual Function).cpp",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 7th (Vl)\\Class 7th (Virtual Function).cpp",
+              "RelativeDocumentMoniker": "..\\Class 7th (Vl)\\Class 7th (Virtual Function).cpp",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 7th (Vl)\\Class 7th (Virtual Function).cpp",
+              "RelativeToolTip": "..\\Class 7th (Vl)\\Class 7th (Virtual Function).cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T10:38:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T09:07:03.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -38,12 +76,23 @@
               "RelativeToolTip": "..\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AgIAAFwAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-16T09:02:34.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:02:34.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T09:40:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -54,20 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\CPlusPlus-Class-Study\\Program\\Program.cpp",
-              "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T09:07:03.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 1th (Stream)\\Source.cpp",
@@ -79,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 2th (Class)\\Source.cpp",
@@ -88,6 +124,30 @@
               "ViewState": "AQIAAE4AAAAAAAAAAAAAAF8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-15T09:04:53.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T10:06:39.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T10:04:49.463Z"
             }
           ]
         }

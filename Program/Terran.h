@@ -11,5 +11,6 @@ protected:
 	int defense;
 public:
 	Terran();
-	void Stats();
+
+	virtual void Stats(); // 가상 함수
 };

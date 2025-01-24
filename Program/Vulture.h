@@ -5,7 +5,7 @@ class Vulture : public Terran
 {
 public:
 	Vulture();
-	void Stats();
+	void Stats() override;
 	// void GroundAttack()
 	// {
 	// 	cout << "Attack ! :  damage" << attack << endl;

@@ -4,7 +4,7 @@ class Goliath : public Terran
 {
 public:
 	Goliath();
-	void Stats();
+	virtual void Stats() override;
 	// void GroundAttack()
 	// {
 	// 	cout << "machine gun Attack ! :  damage" << attack << endl;
