@@ -1,4 +1,3 @@
-﻿  Banana.cpp
-  Fruit.cpp
-  코드를 생성하고 있습니다...
-  Program.vcxproj -> C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\x64\Debug\Program.exe
+﻿  Source.cpp
+C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\Source.cpp(29,3): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
+C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\Source.cpp(29,10): error C2275: 'Vector2': 형식 대신 식이 필요합니다.

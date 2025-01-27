@@ -2,10 +2,11 @@
 
 Banana::Banana()
 {
-	Sugarcontent = 35;
+	cout << "Created Banana " << endl;
 }
 
 Banana::~Banana()
 {
-	cout << "Banana ÀÇ ´çµµ : " << Sugarcontent << endl;
+	cout << "Release Banana " << endl;
 }
+

@@ -1,11 +1,12 @@
 #include "Fruit.h"
 
+
 Fruit::Fruit()
 {
-	Sugarcontent = 0;
+	cout << "Created Fruit " << endl;
 }
 
 Fruit::~Fruit()
 {
-	cout << "과일의 당도는 : "<< Sugarcontent << endl;
+	cout << "Release Fruit " << endl;
 }
