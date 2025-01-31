@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\Source.cpp(29,3): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
-C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\Source.cpp(29,10): error C2275: 'Vector2': 형식 대신 식이 필요합니다.
+C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\Source.cpp(24,12): warning C4101: 'intList' :참조되지 않은 지역 변수입니다.
+  Program.vcxproj -> C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\x64\Debug\Program.exe

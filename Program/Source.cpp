@@ -2,50 +2,26 @@
 
 using namespace std;
 
-class Vector2
+template <typename T>
+class List
 {
 private:
-	int x;
-	int y;
-
+	int size;
+	int index;
+	T* pointer;
 public:
-	Vector2(int x, int y)
-	{
-		this->x = x;
-		this->y = y;
-	}
-	const int& X()
-	{
-		return x;
-	}
-	const int& Y()
-	{
-		return y;
-	}
-	Vector2 operator + (Vector2& clone)
-	{
-		Vector2()
-	
-		return Vector2;
-
-	}
 
 };
 
 
-
 int main()
 {
-#pragma region 연산자 오버로딩
-	// 
-
-	Vector2 direction1(5,5);
-	Vector2 direction2(1,1);
-
-	Vector2 direction = direction1 + direction2;
-
+#pragma region 템플릿
+	// 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터
+	// 형식을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수
+	// 있는 기능입니다.
 	
-
+	List<int> intList;
 
 #pragma endregion
 
