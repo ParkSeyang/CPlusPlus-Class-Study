@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\Source.cpp(24,12): warning C4101: 'intList' :참조되지 않은 지역 변수입니다.
   Program.vcxproj -> C:\Users\Administrator\Desktop\CPlusPlus-Class-Study\Program\x64\Debug\Program.exe
