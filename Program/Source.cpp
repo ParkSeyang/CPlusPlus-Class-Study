@@ -2,117 +2,94 @@
 
 using namespace std;
 
-template <typename T>
-class List
+class Packet
+{
+
+private:
+
+	int errorCode = -9999;
+
+public:
+	 Packet()
+	{
+		cout << "Created Packet" << endl;
+	}
+
+	 const int & ErrorCode()
+	 {
+		 return errorCode;
+	 }
+
+	 ~Packet()
+	{
+		 cout << "Release Packet" << endl;
+	}
+};
+
+class Resource
 {
 private:
-	int size;
-	int index;
-	T* pointer;
+
 public:
-
-	List()
+	Resource()
 	{
-		int Size = 0;
-		int index = 0;
-		pointer = nullptr;
+		cout << " Created Resource " << endl;
 	}
-	void Resize(int size)
+	~Resource()
 	{
-		this->size = size;
-		pointer = new T[size];
-
-		for (int i = 0; i < size; i++)
-		{
-			pointer[i] = 0;
-		}
+		cout << " Release Resource " << endl;
 	}
-	void Add(T data)
-	{
-		if (index >= size)
-		{
-			cout << "Index Out of Range " << endl;
-		}
-		else
-		{
-			pointer[index++] = data;
-		}
-		
-	}
-	const T & operator[] (int index)
-	{
-		return pointer[index];
-	}
-	~List()
-	{
-		if (pointer != nullptr)
-		{
-			delete[] pointer;
-			// delete pointer 를하게되면 Heap 영역의 시작주소만 초기화 되기때문에 그뒤에있는 주소들은
-			// 소멸이안되서 메모리누수 가 발생한다. 그래서 []라는 대입연산자를 사용해서 없애줘야한다. 
-		}
-	}
-
 };
-template <typename T>
-bool Same(T argument, T parameter)
-{
-	
-	if (argument == parameter)
-	{
-		cout << " True " << endl;
-	}
-	else if(argument != parameter)
-	{
-		cout << " False " << endl;
-	}
-	else
-	{
-		cout << "Error" << endl;
-	}
-	 return argument == parameter;
 
-
-}
-
-template<typename T>
-bool Same(const char* x,const char * y)
-{
-	return x ==  y;
-}
 
 int main()
 {
-#pragma region 템플릿
-	// 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터
-	// 형식을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수
-	// 있는 기능입니다.
+#pragma region 스마트 포인터
+	// 포인터를 시뮬레이션하는 동시에 자동으로 메모리 관리를
+	// 해주며, 경계 확인과 같은 추가 기능을 제공하는 추상
+	// 데이터 포인터 형식입니다.
 	
-	// List<int> list;
-	// list.Resize(5);
-	// list.Add(1);
-	// list.Add(2);
-	// list.Add(3);
-	// list.Add(4);
-	// list.Add(5);
-	// list.Add(6);
-	// 
-	// for (int i = 0; i < 5; i++)
+	// 지역변수의 소멸로 만든 포인터(중 괄호안에 포인터1이 생성 되었다가 중괄호 밖으로 벗어나면 소멸됨)
+	// int* pointer2 = nullptr;
 	// {
-	// 	cout << list[i] << endl;
+	// 	int* pointer1 = new int;
+	// 
+	// 	*pointer1 = 100;
+	// 
+	// 	pointer2 = pointer1;
 	// }
+	// cout << "Pointer가 가리키는 값 : " << *pointer2 << endl;
+
+#pragma region Unique Pointer(유니크 포인터)
+	// 특정한 객체를 하나의 스마트 포이넡만 가리킬 수
+	// 있도록 되어 있는 포인터입니다.
+
+	// unique_ptr<Packet> uniquePointer = make_unique<Packet>();
+	// 
+	// cout << "UniquePointer Error Code : " << uniquePointer->ErrorCode() << endl;
+	// 
+	// unique_ptr<Packet> uniqueReference = std::move(uniquePointer);
+	// 
+	// cout << "UniquePointer Error Code : " << uniquePointer->ErrorCode() << endl;
+	// 
+	// cout << "uniqueReference Error Code : " << uniqueReference->ErrorCode() << endl;
 
 #pragma endregion
 
-#pragma region 템플릿 특수화
-	// 특정 자료형에 대해 다르게 처리하고 싶은 경우
-	// 특정한 자료형만 다른 형식으로 동작시키는 템플릿 기능입니다.
+#pragma region Shared Pointer(공유 포인터)
+	// 하나의 자원 객체를 여러 포인터 객체가 가리킬 수 있으며,
+	// 모든 포인터 객체가 자원 객체를 필요하지 않을 때 자원 객체를
+	// 해제하도록 설계 되어 있는 포인터 입니다.
 
-	cout << Same('A', 'B') << endl;
-	cout << Same(15.7f,12.5f) << endl;
-	cout << Same(10,10) << endl;
-	cout << Same("Apple", "Apple") << endl;
+	shared_ptr<Resource> oil = make_shared<Resource>();
 	
+	cout << " Reference Count : " << oil.use_count() << endl;
+
+	shared_ptr<Resource> mineral = oil;
+
+	cout << " Reference Count : " << oil.use_count() << endl;
+
+#pragma endregion
 
 
 #pragma endregion
