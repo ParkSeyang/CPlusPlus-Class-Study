@@ -7,10 +7,10 @@
       "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0696ACA4-B109-45D0-BAB9-82B397362CA6}|..\\Class 12th (Thread)\\Class 12th (Thread).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 12th (Thread)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{65C872C7-024F-47CD-A44D-288D0302F2B3}|..\\Class 13th (Linear Container)\\Class 13th (Linear Container).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 13th (Linear Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\THREAD||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{0696ACA4-B109-45D0-BAB9-82B397362CA6}|..\\Class 12th (Thread)\\Class 12th (Thread).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 12th (Thread)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A93D97-DB81-4991-9DDB-23EA69B057E8}|..\\Class 11th (Smart Pointer)\\Class 11th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 11th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -47,6 +47,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B287DCA-2FF3-49D4-A1B1-49663C5970C9}|..\\Class 2th (Class)\\Class 2th (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +59,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,18 +89,30 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 13th (Linear Container)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 13th (Linear Container)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 13th (Linear Container)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 13th (Linear Container)\\Source.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T10:08:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 12th (Thread)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 12th (Thread)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 12th (Thread)\\Source.cpp",
               "RelativeToolTip": "..\\Class 12th (Thread)\\Source.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAmwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T09:23:28.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T09:23:28.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "thread",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
@@ -105,8 +120,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
               "ViewState": "AQIAAFMAAAAAAAAAAAAAwGMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T09:13:26.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T09:13:26.627Z"
             },
             {
               "$type": "Document",
@@ -176,7 +190,7 @@
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.514Z",
               "EditorCaption": ""
