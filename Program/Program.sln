@@ -31,6 +31,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 12th (Thread)", "..\C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 13th (Linear Container)", "..\Class 13th (Linear Container)\Class 13th (Linear Container).vcxproj", "{65C872C7-024F-47CD-A44D-288D0302F2B3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 14th (Container Adapter)", "..\Class 14th (Container Adapter)\Class 14th (Container Adapter).vcxproj", "{AE944EEE-2438-442B-B9D7-F89537D4C4AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 15th (Assoclated Contianer)", "..\Class 15th (Assoclated Contianer)\Class 15th (Assoclated Contianer).vcxproj", "{9628FACA-B124-4EAD-A083-1C376A56452E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +155,22 @@ Global
 		{65C872C7-024F-47CD-A44D-288D0302F2B3}.Release|x64.Build.0 = Release|x64
 		{65C872C7-024F-47CD-A44D-288D0302F2B3}.Release|x86.ActiveCfg = Release|Win32
 		{65C872C7-024F-47CD-A44D-288D0302F2B3}.Release|x86.Build.0 = Release|Win32
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Debug|x64.ActiveCfg = Debug|x64
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Debug|x64.Build.0 = Debug|x64
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Debug|x86.Build.0 = Debug|Win32
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Release|x64.ActiveCfg = Release|x64
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Release|x64.Build.0 = Release|x64
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Release|x86.ActiveCfg = Release|Win32
+		{AE944EEE-2438-442B-B9D7-F89537D4C4AA}.Release|x86.Build.0 = Release|Win32
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Debug|x64.ActiveCfg = Debug|x64
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Debug|x64.Build.0 = Debug|x64
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Debug|x86.Build.0 = Debug|Win32
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Release|x64.ActiveCfg = Release|x64
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Release|x64.Build.0 = Release|x64
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Release|x86.ActiveCfg = Release|Win32
+		{9628FACA-B124-4EAD-A083-1C376A56452E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
