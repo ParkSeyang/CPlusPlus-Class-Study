@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{486CC63F-674D-40F8-B916-4114EB157C40}|..\\Class 10th (Template\\Class 10th (Template.vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 10th (Template\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A93D97-DB81-4991-9DDB-23EA69B057E8}|..\\Class 11th (Smart Pointer)\\Class 11th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 11th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C872C7-024F-47CD-A44D-288D0302F2B3}|..\\Class 13th (Linear Container)\\Class 13th (Linear Container).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 13th (Linear Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C537AE-D9E9-4051-A3B0-CD8F4BB931B3}|..\\Class 9th (Operator Overloading)\\Class 9th (Operator Overloading).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 9th (Operator Overloading)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1C19627-4BCC-4E3C-A690-8C1ABB3E74F4}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -10,16 +22,10 @@
       "AbsoluteMoniker": "D:0:0:{9628FACA-B124-4EAD-A083-1C376A56452E}|..\\Class 15th (Assoclated Contianer)\\Class 15th (Assoclated Contianer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 15th (Assoclated Contianer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65C872C7-024F-47CD-A44D-288D0302F2B3}|..\\Class 13th (Linear Container)\\Class 13th (Linear Container).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 13th (Linear Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE944EEE-2438-442B-B9D7-F89537D4C4AA}|..\\Class 14th (Container Adapter)\\Class 14th (Container Adapter).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 14th (Container Adapter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0696ACA4-B109-45D0-BAB9-82B397362CA6}|..\\Class 12th (Thread)\\Class 12th (Thread).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 12th (Thread)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A93D97-DB81-4991-9DDB-23EA69B057E8}|..\\Class 11th (Smart Pointer)\\Class 11th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 11th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -34,13 +40,7 @@
       "AbsoluteMoniker": "D:0:0:{558D51C5-57CC-44F2-83C9-2E831D758CF5}|..\\Class 3th (Constructor \u0026 Destructor)\\Class 3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{486CC63F-674D-40F8-B916-4114EB157C40}|..\\Class 10th (Template\\Class 10th (Template.vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 10th (Template\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB41E37C-5B34-4F2F-96F6-A7A27AD39D13}|..\\Class 6th (Polymorphsim)\\Class 6th (Polymorphsim).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C537AE-D9E9-4051-A3B0-CD8F4BB931B3}|..\\Class 9th (Operator Overloading)\\Class 9th (Operator Overloading).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 9th (Operator Overloading)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69872356-31A3-450B-AC09-59D61DC92C03}|..\\Class 8th (Abstract)\\Class 8th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -65,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 15th (Assoclated Contianer)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 15th (Assoclated Contianer)\\Source.cpp",
@@ -101,12 +101,11 @@
               "RelativeToolTip": "..\\Class 15th (Assoclated Contianer)\\Source.cpp",
               "ViewState": "AQIAADYAAAAAAAAAAAAmwEcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-10T10:40:09.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:40:09.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 14th (Container Adapter)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 14th (Container Adapter)\\Source.cpp",
@@ -114,8 +113,7 @@
               "RelativeToolTip": "..\\Class 14th (Container Adapter)\\Source.cpp",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-10T09:27:25.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T09:27:25.238Z"
             },
             {
               "$type": "Document",
@@ -125,14 +123,14 @@
               "RelativeDocumentMoniker": "..\\Class 13th (Linear Container)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 13th (Linear Container)\\Source.cpp",
               "RelativeToolTip": "..\\Class 13th (Linear Container)\\Source.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAFAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-07T10:08:48.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 12th (Thread)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 12th (Thread)\\Source.cpp",
@@ -156,19 +154,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 11th (Smart Pointer)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 11th (Smart Pointer)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 11th (Smart Pointer)\\Source.cpp",
               "RelativeToolTip": "..\\Class 11th (Smart Pointer)\\Source.cpp",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAgwJUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T10:36:47.531Z"
+              "WhenOpened": "2025-02-05T10:36:47.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "new_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\new_scalar.cpp",
@@ -180,27 +179,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 10th (Template\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 10th (Template\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 10th (Template\\Source.cpp",
               "RelativeToolTip": "..\\Class 10th (Template\\Source.cpp",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAgwH0AAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-04T09:11:25.274Z"
+              "WhenOpened": "2025-02-04T09:11:25.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 9th (Operator Overloading)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 9th (Operator Overloading)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 9th (Operator Overloading)\\Source.cpp",
               "RelativeToolTip": "..\\Class 9th (Operator Overloading)\\Source.cpp",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAgwHcAAAAEAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T10:17:54.634Z"
+              "WhenOpened": "2025-01-31T10:17:54.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -216,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Program\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
@@ -241,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
@@ -253,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -289,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 6th (Polymorphsim)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 6th (Polymorphsim)\\Source.cpp",
@@ -301,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CPlusPlus-Class-Study\\Class 5th (Inhentance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 5th (Inhentance)\\Source.cpp",
